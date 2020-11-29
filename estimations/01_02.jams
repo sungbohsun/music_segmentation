@@ -1,0 +1,101 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "0.1.70",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.5572789115646258,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 0.5572789115646258,
+          "duration": 24.241632653061224,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 24.79891156462585,
+          "duration": 27.399546485260768,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 52.19845804988662,
+          "duration": 13.88553287981859,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 66.08399092970521,
+          "duration": 14.953650793650795,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 81.037641723356,
+          "duration": 4.969070294784586,
+          "value": "A",
+          "confidence": null
+        },
+        {
+          "time": 86.00671201814059,
+          "duration": 22.523356009070298,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 108.53006802721089,
+          "duration": 0.023129251700680697,
+          "value": "E",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "foote",
+        "labels_id": "fmc2d",
+        "timestamp": "2020/11/29 16:43:24",
+        "annot_beats": false,
+        "feature": "pcp",
+        "framesync": false,
+        "M_gaussian": 66,
+        "m_median": 12,
+        "L_peaks": 64,
+        "bound_norm_feats": "min_max",
+        "dirichlet": false,
+        "xmeans": false,
+        "k": 4,
+        "2dfmc_offset": 4,
+        "label_norm_feats": Infinity,
+        "label_norm_floor": 0.1,
+        "label_norm_min_db": -80,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 108.55319727891157,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,113 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "0.1.70",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.13931972789115646,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 0.13931972789115646,
+          "duration": 27.631746031746033,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 27.77106575963719,
+          "duration": 26.888707482993198,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 54.659773242630386,
+          "duration": 16.53260770975057,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 71.19238095238096,
+          "duration": 15.696689342403616,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 86.88907029478457,
+          "duration": 17.832925170068037,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 104.72199546485261,
+          "duration": 16.207528344671204,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 120.92952380952381,
+          "duration": 5.387029478458047,
+          "value": "A",
+          "confidence": null
+        },
+        {
+          "time": 126.31655328798186,
+          "duration": 27.817505668934245,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 154.1340589569161,
+          "duration": 0.03247165532877716,
+          "value": "E",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "foote",
+        "labels_id": "fmc2d",
+        "timestamp": "2020/11/29 17:19:03",
+        "annot_beats": false,
+        "feature": "pcp",
+        "framesync": false,
+        "M_gaussian": 66,
+        "m_median": 12,
+        "L_peaks": 64,
+        "bound_norm_feats": "min_max",
+        "dirichlet": false,
+        "xmeans": false,
+        "k": 4,
+        "2dfmc_offset": 4,
+        "label_norm_feats": Infinity,
+        "label_norm_floor": 0.1,
+        "label_norm_min_db": -80,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 154.16653061224488,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
